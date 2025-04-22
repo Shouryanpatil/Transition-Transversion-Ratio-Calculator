@@ -5,7 +5,7 @@ This repository contains a Python script to compute the **transition/transversio
 ## Problem Description
 Given two DNA strings `s1` and `s2` of equal length (at most 1 kbp), the transition/transversion ratio \( R(s1, s2) \) is defined as:
 
-\[ R(s1, s2) = \frac{\text{Number of transitions}}{\text{Number of transversions}} \]
+[ R(s1, s2) = Number of transitions/ Number of transversions ]
 
 ### Definitions:
 - **Transitions**: Substitutions between purines (A ↔ G) or pyrimidines (C ↔ T).
